@@ -113,28 +113,8 @@ Main app features:
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/dado-cloud/student-depression-prediction.git
-cd student-depression-prediction
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit app:
-
-```bash
-streamlit run app.py
-```
-
----
+## website link 
+https://mystramlit1-34l9vyagp3belxfmhyaayu.streamlit.app/
 
 ## Repository Structure
 
